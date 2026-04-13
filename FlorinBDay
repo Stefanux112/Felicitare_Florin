@@ -1,35 +1,58 @@
-🎉 La mulți ani!
-Test Case: Verificare cadou personalizat – Canistră Bar
-ID: TC‑001
+🎉 La mulți ani, Florine!
+Test Case: Verificare cadou personalizat – Canistră Bar Hand-Made by Cata&Family
+
+ID: TC-001
 Titlu: Validarea funcționalității cadoului „Canistră Bar”
 Obiectiv: Asigurarea că experiența de utilizare este completă, festivă și sigură.
 Precondiții: Cadoul este pregătit, masa este liberă, atmosfera e de sărbătoare.
+Environment: Prieteni prezenți, muzică bună, voie bună activată 🎶
 
 🔧 Pași de testare
-1: Se descuie canistra folosind cheia dedicată.
 
- - Rezultat așteptat: Capacul se deschide fără efort, mecanismul funcționează corect.
+1. Se descuie canistra folosind cheia dedicată.
 
-2. Se așează masa cu grijă, pe suprafață stabilă.
+✅ Rezultat așteptat: Capacul se deschide fără efort, mecanismul funcționează corect.
 
- - Rezultat așteptat: Canistra stă vertical, fără balans.
+2. Se așează canistra pe masă, pe suprafață stabilă.
 
-3. Se deschide compartimentul interior.
+✅ Rezultat așteptat: Canistra stă vertical, fără balans.
 
- - Rezultat așteptat: Se observă sticlele și paharele aranjate estetic.
+3. Se deschide compartimentul interior prin mini-măsuța de servit shot-uri.
+
+✅ Rezultat așteptat: Se observă sticlele și paharele aranjate estetic; se așază cu grijă pe mini-măsuță.
 
 4. Se selectează băutura preferată (ex. Jägermeister).
 
- - Rezultat așteptat: Sticla este accesibilă și ușor de manevrat.
+✅ Rezultat așteptat: Sticla este accesibilă și ușor de manevrat.
 
 5. Se toarnă în pahare cantitatea dorită.
 
-- Rezultat așteptat: Paharele sunt curate, lichidul se distribuie uniform.
+✅ Rezultat așteptat: Paharele sunt curate, lichidul se distribuie uniform.
 
 6. Se ridică un toast pentru sărbătorit.
 
- - Rezultat așteptat: Zâmbete, urări și bucurie autentică.
+✅ Rezultat așteptat: Zâmbete, urări și bucurie autentică.
 
 7. Se închide canistra după utilizare.
 
-Rezultat așteptat: Mecanismul se blochează sigur, fără scurgeri.
+✅ Rezultat așteptat: Mecanismul se blochează sigur, fără scurgeri, sticla este (misterios) goală.
+🧪 Teste suplimentare (edge cases)
+
+8. Se repetă pașii 4–6 de mai multe ori.
+
+⚠️ Rezultat așteptat: Nivelul de veselie crește exponențial.
+
+9. Se verifică stabilitatea utilizatorului după mai multe iterații.
+
+⚠️ Rezultat așteptat: Posibile deviații de traiectorie, râs necontrolat.
+
+10. Se încearcă închiderea canistrei de către un utilizator „avansat”.
+
+⚠️ Rezultat așteptat: Necesită retry sau asistență externă 😄
+🚨 Known Issues
+După multiple execuții, memoria utilizatorului poate avea leak-uri temporare 🧠
+Posibilă creștere a volumului vocii fără motiv aparent 🔊
+🎯 Verdict final
+
+Status: ✅ PASSED WITH HONORS
+Note: Cadoul este complet funcțional și recomandat pentru utilizare repetată 🍻
